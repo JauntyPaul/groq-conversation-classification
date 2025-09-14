@@ -3,6 +3,10 @@
 This project explores how to manage and process conversational data using Groq’s OpenAI-compatible API.
 It’s split into two tasks: one focused on handling conversation history with summarization, and another on structured information extraction using JSON schemas.
 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lfNEed3aEk3Ng-Aoi6aB2LMeHrRAhPeO?usp=sharing)
+
+
 ## Task 1 – Conversation Management & Summarization
 
 The first part is all about keeping a running chat history tidy:
